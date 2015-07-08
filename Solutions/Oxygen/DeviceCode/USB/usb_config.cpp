@@ -23,7 +23,7 @@
 // NOTE: If these two strings are not present, the MFUSB KERNEL driver will *CRASH*
 // which, of course, causes Windows to crash
 #define     DISPLAY_NAME_SIZE      6   /* "Oxygen" */
-#define     FRIENDLY_NAME_SIZE      3   /* "4.3" */
+#define     FRIENDLY_NAME_SIZE      3   /* "4.4" */
 // index for the strings
 #define     MANUFACTURER_NAME_INDEX 1
 #define     PRODUCT_NAME_INDEX      2
